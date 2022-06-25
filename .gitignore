@@ -1,5 +1,7 @@
 *.editorconfig
-*.vscproj
-*.vscproj.filters
-*.vscproj.user
+OpenSiv3D_0.6.33.vcxproj
+OpenSiv3D_0.6.33.vcxproj.filters
+OpenSiv3D_0.6.33.vcxproj.user
+stdafx.cpp
+stdafx.h
 App/
