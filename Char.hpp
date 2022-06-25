@@ -2,7 +2,7 @@
 #include<Siv3d.hpp>
 
 class Bullet
-{
+{a
 public:
 	Bullet(Hero& _hero, P2Body& _herop2)
 		:hero(_hero)
